@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: Filters by hant0508
+! Version: 3.5.5
+! Homepage: https://github.com/hant0508/uBlock-fillters
+
+pornhub.com##div[id*=age-verification-wrapper]
+pornhub.com##div[id*=age-verification-container]
+
