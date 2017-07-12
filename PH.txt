@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Filters by hant0508
+! Title: Block VK auth on PornHub
 ! Version: 3.5.5
 ! Homepage: https://github.com/hant0508/uBlock-fillters
 
